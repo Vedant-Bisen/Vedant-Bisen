@@ -9,15 +9,6 @@ I have been working with code since high school. I am familiar with multiple lan
 * 🌍 I'm based in Gurgaon, India
 * ✉️ You can contact me at [bisenvedant@gmail.com](mailto:bisenvedant@gmail.com)
 
-## Skills
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Vedant-Bisen/Vedant-Bisen/main/icons/python.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/Vedant-Bisen/Vedant-Bisen/main/icons/flask.svg" alt="Flask" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/Vedant-Bisen/Vedant-Bisen/main/icons/django.svg" alt="Django" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/Vedant-Bisen/Vedant-Bisen/main/icons/linux.svg" alt="Linux" width="40" height="40" />
-</p>
-
 ## Socials
 
 <p align="left">
